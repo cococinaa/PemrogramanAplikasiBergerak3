@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BangunRuangApp</string>
+    <string name="konfirmasiTitle">BangunRuang</string>
+    <string name="konfirmasiBody">Apakah anda yakin?</string>
+    <string-array name="planet">
+        <item>Merkurius</item>
+        <item>Venus</item>
+        <item>Bumi</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturnus</item>
+        <item>Uranus</item>
+        <item>Neptunus</item>
+    </string-array>
+</resources>

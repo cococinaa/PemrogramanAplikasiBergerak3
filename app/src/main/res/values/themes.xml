@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BangunRuangApp" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/darkteal</item>
+        <item name="android:windowBackground">@color/sand</item>
+        <item name="android:textColor">@color/teal</item>
+    </style>
+
+    <style name="Theme.BangunRuangApp" parent="Base.Theme.BangunRuangApp" />
+</resources>
